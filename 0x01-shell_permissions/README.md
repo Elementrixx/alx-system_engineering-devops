@@ -1,1 +1,1 @@
-readme for new permissions
+readme ofr james bond
