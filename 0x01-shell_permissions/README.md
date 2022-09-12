@@ -1,1 +1,1 @@
-New echo for file
+readme for directories
