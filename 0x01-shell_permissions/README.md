@@ -1,1 +1,1 @@
-New readme for whoami
+Readme for groups
