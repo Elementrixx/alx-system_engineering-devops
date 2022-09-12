@@ -1,1 +1,1 @@
-readme for directories
+readme for me
