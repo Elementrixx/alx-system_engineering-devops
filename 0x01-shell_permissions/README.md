@@ -1,1 +1,1 @@
-Teadme for multiple permisions
+readme for new permissions
