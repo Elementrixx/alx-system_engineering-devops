@@ -1,1 +1,1 @@
-Making a super user
+New readme for whoami
