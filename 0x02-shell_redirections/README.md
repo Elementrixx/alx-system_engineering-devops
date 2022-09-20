@@ -1,1 +1,1 @@
-Readme ofr users and homes
+Readme for cask
