@@ -1,1 +1,1 @@
-Readme for ihatebins
+Readme for fuck off
