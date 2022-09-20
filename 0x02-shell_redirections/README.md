@@ -1,1 +1,1 @@
-Readme for fuck off
+Readme ofr removing characters
