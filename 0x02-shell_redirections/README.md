@@ -1,1 +1,1 @@
-raedme for containing pattern
+Readme for ihatebins
