@@ -1,1 +1,1 @@
-Readme ofr removing characters
+Readme for reversing input
