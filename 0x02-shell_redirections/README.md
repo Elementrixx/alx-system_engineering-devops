@@ -1,1 +1,1 @@
-Readme for reversing input
+Readme ofr users and homes
