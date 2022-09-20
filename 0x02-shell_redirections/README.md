@@ -1,1 +1,1 @@
-Display paaswd file
+Display password file
