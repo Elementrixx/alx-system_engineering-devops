@@ -1,1 +1,1 @@
-Display funny emoki
+Display paaswd file
