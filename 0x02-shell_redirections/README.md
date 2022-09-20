@@ -1,1 +1,1 @@
-Duplicate
+Readme for removal of JS
