@@ -1,1 +1,1 @@
-a new ewadme dile
+Display funny emoki
