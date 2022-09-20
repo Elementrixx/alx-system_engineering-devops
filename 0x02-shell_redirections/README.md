@@ -1,1 +1,1 @@
-Readme for counting directory
+raedme for displaying 10 new files
