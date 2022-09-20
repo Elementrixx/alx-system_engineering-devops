@@ -1,1 +1,1 @@
-Readme for removal of JS
+Readme for counting directory
