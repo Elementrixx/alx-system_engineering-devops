@@ -1,1 +1,1 @@
-Readme for ocount
+raedme for containing pattern
