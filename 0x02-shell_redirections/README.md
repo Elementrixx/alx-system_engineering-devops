@@ -1,1 +1,1 @@
-echo for first 10 lines
+Readme for display of 3 lines
