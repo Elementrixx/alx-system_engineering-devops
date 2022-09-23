@@ -1,1 +1,1 @@
-Echo for raised to power
+Echo for binary
