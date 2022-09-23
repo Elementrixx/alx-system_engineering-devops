@@ -1,1 +1,1 @@
-Readme for path
+Echo for global Variables
