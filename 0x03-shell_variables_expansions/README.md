@@ -1,1 +1,1 @@
-Echo for binary
+Readme for symbols
