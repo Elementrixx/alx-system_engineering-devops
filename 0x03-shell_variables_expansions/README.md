@@ -1,1 +1,1 @@
-Readme for decimal
+Echo for strong encryption
