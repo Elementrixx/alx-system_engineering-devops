@@ -1,1 +1,1 @@
-Echo for $
+Readme for divide and rule
