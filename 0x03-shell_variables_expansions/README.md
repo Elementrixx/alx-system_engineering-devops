@@ -1,1 +1,1 @@
-Echo for strong encryption
+Echo for odd number
