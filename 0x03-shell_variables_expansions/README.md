@@ -1,1 +1,1 @@
-Echo for floats
+Readme for decimal
