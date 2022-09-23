@@ -1,1 +1,1 @@
-Readme for divide and rule
+Echo for raised to power
