@@ -1,1 +1,1 @@
-Readme for new variable
+Readme for Global Variables
