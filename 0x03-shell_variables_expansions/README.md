@@ -1,1 +1,1 @@
-Readme for Global Variables
+Echo for $
