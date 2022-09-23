@@ -1,1 +1,1 @@
-Echo for odd number
+Readme for path
