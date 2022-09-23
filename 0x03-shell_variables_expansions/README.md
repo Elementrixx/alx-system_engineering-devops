@@ -1,1 +1,1 @@
-Echo for global Variables
+Echo for Printev
